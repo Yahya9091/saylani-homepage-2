@@ -1,0 +1,237 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+nav{
+    background-color: #EEEEEE;
+    width: 100%;
+    height: 28px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.t-left{
+    /* border: 1px solid red; */
+    width: 320px;
+    height: 90%;
+    margin-right: 500px;
+}
+.t-right{
+    /* border: 1px solid blue; */
+    width: 10px;
+    background-color: transparent;
+}
+li{
+    list-style: none;
+    display: inline-block;
+}
+.eng{
+    border: none;
+}
+
+.maint{
+    height: 80.41px;
+    /* background-color: blue; */
+    display: flex;
+    align-items: center;
+}
+#abc{
+    display: flex;
+    justify-content: space-around;
+}
+.donate{
+    
+    height: 530px;
+    display: flex;
+    justify-content: space-between;
+}
+.conleft{
+    /* border: 1px solid blue; */
+    width: 50%;
+}
+#read{
+    width: 110px;
+    height: 30px;
+    border: light gainsboro;
+}
+.conright{
+    /* border: 1px solid green; */
+    width: 50%;
+}
+.help{
+    /* border: 1px solid green; */
+    height: 160px;
+    display: flex;
+    align-items: center;
+    background-color: #F0FCDA;
+}
+.cbc{
+    /* border: 1px solid red; */
+    width: 30%;
+    margin-left: 15px;
+    height: 90%;
+    
+}
+.butto{
+    width: 90%;
+    /* border: 1px solid lawngreen; */
+    margin-left: 30px;
+}
+
+#home{
+    align-self: center;
+}
+#white-button{
+    background-color: #fff;
+    color: black;
+    border: none ;
+}
+.blanket{
+    
+    height: 560px;
+    background-image: url("./images/f0eb94d3-2d65-44ca-8b6c-8d26fe32181a.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.ch{
+    display: flex;
+    
+    height: 180px;
+    align-items: center;
+    justify-content: space-between;
+}
+.doing{
+    
+    height: 160px;
+    width: 160px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: #F3FDE2;
+}
+.cards{
+    display: flex;
+    ;
+    height: 300px;
+    width: 1100;
+    justify-content: space-between;
+}
+.sindh{
+    
+    height: 100%;
+    width: 336px;
+    background-image: url("./images/c1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 10px;
+
+}
+.c1{
+    
+    padding-top: 203px;
+    color: white;
+    padding-left: 6px;
+    font-size: 18px;
+}
+.it{
+    
+    height: 100%;
+    width: 336px;
+    background-image: url("./images/c2.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 10px;
+}
+.c2{
+    padding-top: 225px;
+    color: white;
+    padding-left: 6px;
+    font-size: 18px;
+
+}
+.winter{
+    
+    height: 100%;
+    width: 336px;
+    background-image: url("./images/c3.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 10px;
+}
+.pro{
+    /* border: 1px solid red; */
+    height: 409px;
+}
+.pleft{
+    width: 50%;
+    /* border: 1px solid gold; */
+    height: 100%;
+    background-image: url("./images/2178912-image-1584559620.jpg");
+    background-size: cover;
+}
+.para{
+    background-color: #8DC63F;
+    width: 20%;
+    position: absolute;
+    bottom: 30;
+    left: 102px;
+    height: 200px;
+    border-top-left-radius: 20px;
+
+}
+#ddd{
+    padding: 40px;
+}
+#capture{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.test{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.message{
+    height: 470%;
+    background-color: #EEEEEE;
+    width: 696px;
+    height: 560px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+#bor{
+    border-radius: 50px;
+    margin-bottom: 345px;
+}
+#ish{
+    margin-top: -340px;
+    text-align: center;
+}
+.med{
+    display: flex;
+    justify-content: center;
+}
+.vl1{
+    display: flex;
+    justify-content: space-evenly;
+}
+.vl2{
+    display: flex;
+    justify-content: space-evenly; 
+}
+.news{
+    display: flex;
+    justify-content: center;
+    
+}
+.nl1{
+    display: flex;
+    justify-content: center;
+}
+
+
